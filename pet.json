@@ -1,5 +1,12 @@
 [
   {
+    "Pet": "Dragonfly",
+    "assets": {
+      "icon": "",
+      "emote": ""
+    }
+  },
+  {
     "Pet": "Babu",
     "assets": {
       "icon": "",
