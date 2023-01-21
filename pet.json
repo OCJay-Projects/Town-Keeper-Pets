@@ -31,21 +31,21 @@
       "Pet": "Glowing Schmeeche",
       "assets": {
         "icon": "https://media.discordapp.net/attachments/1064659716120264724/1066144724085379215/SchmeechGlowing.png?width=596&height=596",
-        "emote": ""
+        "emote": "<:glowschmeechee:1066215048600621096>"
       }
     },
     {
       "Pet": "Orange Schmeeche",
       "assets": {
         "icon": "https://media.discordapp.net/attachments/1064659716120264724/1066144723850510366/Schmeech.png?width=596&height=596",
-        "emote": ""
+        "emote": "<:orangeschmeechee:1066215069995761705>"
       }
     },
     {
       "Pet": "Poison Schmeeche",
       "assets": {
         "icon": "https://media.discordapp.net/attachments/1064659716120264724/1066144724324462642/SchmeechPoison.png?width=596&height=596",
-        "emote": ""
+        "emote": "<:poisonschmeechee:1066215084944269322>"
       }
     },
     {
@@ -87,7 +87,7 @@
       "Pet": "Red Schmeeche",
       "assets": {
         "icon": "https://media.discordapp.net/attachments/1064659716120264724/1066144724521599076/SchmeechRed.png?width=596&height=596",
-        "emote": ""
+        "emote": "<:redschmeechee:1066215102619078656>"
       }
     }
   ]
