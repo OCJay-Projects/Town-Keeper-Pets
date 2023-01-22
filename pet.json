@@ -49,10 +49,10 @@
       }
     },
     {
-      "Pet": "Firebug",
-      "assets": {
-        "icon": "",
-        "emote": ""
+    "Pet": "Firebug",
+    "assets": {
+      "icon": "https://cdn.discordapp.com/attachments/1064659716120264724/1066540427991318628/Firebug.png",
+      "emote": "<:Firebug:1066818402909442078>"
       }
     },
     {
