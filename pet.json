@@ -58,8 +58,8 @@
     {
       "Pet": "Wyrm",
       "assets": {
-        "icon": "",
-        "emote": ""
+        "icon": "https://cdn.discordapp.com/attachments/1064659716120264724/1068258763200548875/Wyrm.png",
+        "emote": "<:Wyrm:1068258992662532196>"
       }
     },
     {
